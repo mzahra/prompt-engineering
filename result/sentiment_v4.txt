@@ -1,0 +1,32 @@
+Sentiment Analysis result after 15 runs:
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
+Positive: 90%, Negative: 0%, Neutral: 10%
+--------------------------------------
