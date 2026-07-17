@@ -1,0 +1,12 @@
+Sentiment Analysis result after 10 runs:
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+

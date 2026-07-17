@@ -1,0 +1,62 @@
+Data Extraction result after 10 runs:
+
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
+{
+  "order_number": "12345",
+  "order_date": "March 15th",
+  "delivery_speed": "fast",
+  "packaging_condition": "damaged"
+}
